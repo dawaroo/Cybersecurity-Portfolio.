@@ -22,16 +22,10 @@ The company’s cybersecurity team investigated the security event and identifie
 ## 4. Respond
 The incident management team implemented immediate response actions to contain the attack and reduce its impact. Incoming ICMP traffic was restricted, and non-critical network services were temporarily taken offline to prioritize the availability of critical services.
 
-Affected accounts were disabled, systems were isolated, and the incident response team was notified.
-
 ---
 
 ## 5. Recover
-## Respond
-The incident management team initiated immediate response actions to contain the denial-of-service attack. Incoming ICMP traffic was blocked and rate-limited to reduce malicious traffic and restore network availability. Non-critical network services were temporarily taken offline to decrease network load, while critical services were prioritized to maintain essential business operations.
+After the denial-of-service attack was mitigated, the incident management team focused on restoring normal network operations. All critical and non-critical services were gradually brought back online and network performance was closely monitored to ensure stability.
 
-The team coordinated with network administrators to monitor traffic levels in real time and confirmed when the attack activity subsided. Internal stakeholders were notified of the incident status throughout the response process.
-
-
-Systems were restored, passwords reset, and additional monitoring was implemented to prevent future incidents.
+The team conducted a post-incident review to evaluate the effectiveness of the response and documented lessons learned. These findings were used to improve incident response procedures and strengthen the organization’s overall resilience against future availability-based attacks
 
