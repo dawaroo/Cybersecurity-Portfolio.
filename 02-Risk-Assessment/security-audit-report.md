@@ -38,5 +38,10 @@ The organization operates with customers in the European Union and has a breach 
 ### SOC (System and Organization Controls)
 The organization is not fully compliant with SOC control requirements. Key gaps include the lack of least privilege access controls, absence of separation of duties, insufficient monitoring capabilities due to the lack of an intrusion detection system (IDS), and the absence of backup and disaster recovery plans. These deficiencies increase operational risk, reduce system reliability, and may negatively impact customer and stakeholder trust.
 
+## Audit Conclusion and Risk Summary
+Based on the internal IT audit conducted at Botium Toys, the organization presents a high overall security risk due to insufficient technical, administrative, and operational controls. The lack of encryption for cardholder data, absence of least privilege access controls, missing intrusion detection capabilities, and the lack of backup and disaster recovery plans significantly increase the risk of data breaches, regulatory penalties, and business disruption.
+Although basic security measures such as firewalls, antivirus software, and physical security controls are in place, these controls are not sufficient to adequately protect sensitive customer data or ensure regulatory compliance. Immediate remediation efforts should prioritize encryption of sensitive data, implementation of least privilege access controls, deployment of intrusion detection systems, and establishment of backup and disaster recovery procedures.
+Addressing these gaps will significantly improve Botium Toys’ security posture, reduce compliance risks, and strengthen overall business resilience.
+
 
 
