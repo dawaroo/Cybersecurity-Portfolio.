@@ -22,3 +22,21 @@ The following assets are managed by the IT department at Botium Toys:
 - **Systems and Software:** Business systems and services including accounting, telecommunications, databases, security systems, e-commerce platforms, inventory management systems, and legacy systems that require ongoing human monitoring.
 
 - **Data and Storage:** Data retention and storage systems used to store business and customer information.
+
+## Controls Assessment
+The company currently has basic security controls in place, including antivirus software that is installed and regularly monitored by the IT department, as well as a firewall that blocks traffic based on an appropriately defined set of security rules. The IT department has also implemented controls to ensure system availability and maintain data integrity.
+However, several critical security controls and procedures are missing. Access controls related to least privilege and separation of duties have not been implemented. Additionally, encryption is not used to ensure the confidentiality of customers’ credit card information that is accepted, processed, transmitted, and stored within the company’s internal database. Currently, all Botium Toys employees have broad access to internally stored data, including potential access to cardholder data and customers’ PII/SPII.
+Additionally, several critical security and operational controls are missing or insufficient. The IT department has not implemented an intrusion detection system (IDS), and there are no disaster recovery plans or regular backups in place to protect critical data and ensure business continuity.
+Although a password policy exists, its requirements are minimal and do not meet current password complexity standards. Furthermore, there is no centralized password management system to enforce these requirements, which can negatively impact both security and operational efficiency when password resets are required.
+Legacy systems are monitored and maintained; however, there is no regular schedule or clearly defined intervention procedures for these systems. On the other hand, the organization has implemented basic physical security controls, including secure locks at facilities, up-to-date closed-circuit television (CCTV) surveillance, and functioning fire detection and prevention systems.
+
+## Compliance Assessment
+### PCI DSS (Payment Card Industry Data Security Standard)
+The organization is not fully compliant with PCI DSS requirements due to insufficient encryption of cardholder data, weak access controls, and inadequate password management practices. These gaps increase the risk of payment provider fines, loss of card processing capabilities, and reputational damage in the event of a data breach.
+### GDPR (General Data Protection Regulation)
+The organization operates with customers in the European Union and has a breach notification plan in place to notify affected individuals within 72 hours. However, the organization is not fully compliant with GDPR requirements due to broad access to PII/SPII, insufficient technical security controls, and inadequate data classification practices. These gaps increase the risk of regulatory penalties and data protection violations.
+### SOC (System and Organization Controls)
+The organization is not fully compliant with SOC control requirements. Key gaps include the lack of least privilege access controls, absence of separation of duties, insufficient monitoring capabilities due to the lack of an intrusion detection system (IDS), and the absence of backup and disaster recovery plans. These deficiencies increase operational risk, reduce system reliability, and may negatively impact customer and stakeholder trust.
+
+
+
