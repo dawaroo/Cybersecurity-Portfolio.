@@ -1,3 +1,7 @@
+#!/bin/bash
+# Commands used during log analysis lab (Coursera)
+# Not intended for production use
+
 # Navigate to logs directory
 cd /home/analyst/logs
 
