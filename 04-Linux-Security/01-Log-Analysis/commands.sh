@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Navigate to logs directory
 cd /home/analyst/logs
 
