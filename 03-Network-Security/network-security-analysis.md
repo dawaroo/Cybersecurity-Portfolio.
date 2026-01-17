@@ -5,7 +5,7 @@ The organization operates a hybrid network environment that supports both on-pre
 Employees access internal resources from on-site locations as well as remotely through secure connections. The network must ensure high availability for online services while protecting sensitive customer and business data from unauthorized access and external threats.
 
 ## Network Zones and Assets
-The organization operates a hybrid network environment that supports both on-premises infrastructure and cloud-based services. The network is segmented into multiple security zones to reduce risk and control traffic flow.
+The network is segmented into multiple security zones to reduce risk and control traffic flow.
 The external zone includes internet-facing services, such as the public e-commerce website hosted within a demilitarized zone (DMZ). This zone is designed to allow customer access while limiting direct exposure to internal systems.
 The internal network zone hosts employee workstations, internal business applications, and sensitive systems such as customer databases. Employees access internal resources from on-site locations as well as remotely through secure connections. These assets require stronger access controls and additional monitoring to protect sensitive customer and business data.
 
