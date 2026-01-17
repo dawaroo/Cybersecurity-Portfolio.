@@ -27,3 +27,6 @@ The objective of this investigation was to analyze user-related files and system
 
 ## Security Relevance
 User management is a core component of access control and identity security. Regular auditing of user accounts and authentication logs helps detect unauthorized access, policy violations, privilege creep, and potential insider threats.
+
+## Security Impact
+Regular user account auditing helps detect unauthorized access, excessive privileges, and policy violations. Reviewing authentication logs and user lifecycle data reduces the risk of insider threats and credential abuse.
