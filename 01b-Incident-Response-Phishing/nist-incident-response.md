@@ -1,4 +1,5 @@
-# Incident Response Using the NIST Cybersecurity Framework
+# Incident Response Using the NIST Cybersecurity Framework – Phishing Attack
+
 
 ## Incident Overview
 A mid-sized e-commerce company experienced a security incident involving a phishing attack. Several employees received fraudulent emails impersonating the IT department and requesting credential verification. As a result, at least one employee’s login credentials were compromised, allowing unauthorized access to internal systems and customer data.
