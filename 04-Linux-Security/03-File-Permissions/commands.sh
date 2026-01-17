@@ -1,5 +1,7 @@
-
 #!/bin/bash
+# Commands used during Linux security lab (Coursera)
+# Purpose: Demonstrate command-line investigation techniques
+# Note: Educational / portfolio use only
 
 # Navigate to the projects directory
 cd /home/researcher2/projects
