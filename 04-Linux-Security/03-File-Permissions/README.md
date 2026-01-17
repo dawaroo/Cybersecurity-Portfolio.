@@ -9,3 +9,6 @@ This project demonstrates how Linux file and directory permissions are reviewed 
 - Applying least privilege using `chmod`
 - Securing hidden files and directories
 - Authorization and access control fundamentals
+
+##Security Impact
+Improper file permissions can allow unauthorized modification or disclosure of sensitive data. Enforcing least privilege at the file and directory level reduces the risk of accidental exposure and limits the impact of compromised user accounts.
