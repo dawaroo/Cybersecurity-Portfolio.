@@ -1,7 +1,7 @@
 # Linux Log Analysis
 ## Log Analysis Using Linux Command-Line Tools
 
-## Description
+## Project Description
 This project demonstrates how Linux command-line tools are used to analyze server logs and user-related data files to identify errors, unauthorized access attempts, and relevant security events. The investigation focuses on extracting meaningful information from log files using efficient text-processing techniques.
 
 ## Investigation Objective
